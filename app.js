@@ -7,7 +7,7 @@ const clearButton = document.querySelector("#clearButton");
 const filterInput = document.querySelector("#todoSearch");
 
 runEvents();
-
+ 
 todos = [];
 
 function runEvents() {
